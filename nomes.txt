@@ -1,0 +1,6 @@
+Gerenciamento de Manejo de gado de cort
+
+SisBovi - vem de sistema de bovinos
+Manga - vem de manejo de gado
+Boiadd - add de adicionar e boi de boi dando a impressão que é boiada
+Zebu - vem de boi
